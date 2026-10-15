@@ -1,6 +1,6 @@
 ![Preview](./images/tumblr_poa01tBXY01wprb1z_1280.jpg)
 
-### Hi!👋 I'm Taha🍙
+### Hi! I'm Taha
 
 *𝙉𝙤𝙩 𝘽𝙖𝙙 𝙉𝙤𝙩 𝘽𝙖𝙙 𝘼𝙩 𝘼𝙡𝙡*
 
