@@ -1,8 +1,5 @@
 ![Preview](./images/tumblr_poa01tBXY01wprb1z_1280.jpg)
 
-<a href="https://discord.gg/lil._.taha"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/738748102311280681?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
-
-
 ### Hi!👋 I'm Ein🍙
 
 *SUPER UNEMPLOYED AHH PERSON*
