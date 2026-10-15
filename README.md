@@ -15,8 +15,9 @@
 
 ## **💻 Experience**
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="200" src="./images/72zo4fatd1vb1.png"></a>
-- I'm Ein and im pursuing my studies to become a Data Scientist
-
+- I'm Taha and im pursuing my studies to become a Data Scientist
+- Ntg to Report so far
+- Nahhhh
 
   
 ## **📊 Github Stats**
