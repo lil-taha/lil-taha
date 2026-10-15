@@ -1,24 +1,22 @@
 ![Preview](./images/tumblr_poa01tBXY01wprb1z_1280.jpg)
 
-### Hi!👋 I'm Ein🍙
+### Hi!👋 I'm Taha🍙
 
-*SUPER UNEMPLOYED AHH PERSON*
+*𝙉𝙤𝙩 𝘽𝙖𝙙 𝙉𝙤𝙩 𝘽𝙖𝙙 𝘼𝙩 𝘼𝙡𝙡*
 
 ## **☕ About me**
 <a href="https://github.com/lil-Ein"><img align="left" lenght= "150" width="243" src="./images/D108nImX0AAABA5.jpg"></a>
-- Name: **Ein** 
+- Name: **Taha** 
 - From: **Pakistan**
-- Hobbies: **Learning, Anime, Grinding**
-- Work: **UNEMPLOYED**
+- Hobbies: **Never Giving Up**
+- Work: **Where ever winds takes**
 - Language: **English**
 <br><br>
 
 ## **💻 Experience**
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="200" src="./images/72zo4fatd1vb1.png"></a>
 - I'm Ein and im pursuing my studies to become a Data Scientist
-- Useless, lazy, and literally no survival skills in this society.
-- I have a passion for anime which gives me Motivation to Grind every day.
-
+  
 ## **📊 Github Stats**
 <!-- <div><a href="https://github.com/MiyagawaMizu"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=lil-Ein&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-Ein&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
