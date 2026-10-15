@@ -1,4 +1,4 @@
-![Preview](./images/tumblr_poa01tBXY01wprb1z_1280.jpg)
+![Preview](file:///home/lord/Downloads/cc1ad01856193307a58689e85dd6e33d.jpg)
 
 <a href="https://discord.gg/lil._.taha"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/738748102311280681?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
 
