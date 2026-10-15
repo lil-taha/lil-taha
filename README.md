@@ -16,6 +16,8 @@
 ## **💻 Experience**
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="200" src="./images/72zo4fatd1vb1.png"></a>
 - I'm Ein and im pursuing my studies to become a Data Scientist
+
+
   
 ## **📊 Github Stats**
 <!-- <div><a href="https://github.com/MiyagawaMizu"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
